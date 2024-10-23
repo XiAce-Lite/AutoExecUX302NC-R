@@ -1,1 +1,1 @@
-powershell D:\Documents\PowerShell\AutoExecUX302NCR.ps1
+powershell D:\Documents\GitHub\AutoExecUX302NCR\AutoExecUX302NCR.ps1
